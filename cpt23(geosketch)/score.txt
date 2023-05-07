@@ -1,0 +1,12 @@
+user1
+8
+user3
+9
+user4
+8
+user5
+7
+user6
+9
+user7
+9
